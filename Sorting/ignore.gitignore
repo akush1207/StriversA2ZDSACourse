@@ -1,0 +1,11 @@
+# Ignore compiled class files
+.class
+
+# Ignore maven or gradle build directories
+/target/
+/build/
+
+# Ignore Eclipse project settings
+.project
+.classpath
+.settings/
